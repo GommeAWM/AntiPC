@@ -37,6 +37,16 @@ AntiPC | Minecraft Bedrock Edition | Nukkit | API 1.0.13
 
 ---
 
+**Examples**
+
+![Screenshot_317](https://user-images.githubusercontent.com/86683320/163117958-28ef69f8-6a7b-44bb-9f59-9de7f4941a54.png)
+
+---
+
+![Screenshot_318](https://user-images.githubusercontent.com/86683320/163118069-85da013d-9436-4db4-9cff-ec3ae15a3056.png)
+
+---
+
 > * Link to cloudburstmc article -> [CloudburstMC](link)
 
 ---
