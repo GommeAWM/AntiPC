@@ -47,7 +47,7 @@ AntiPC | Minecraft Bedrock Edition | Nukkit | API 1.0.13
 
 ---
 
-> * Link to cloudburstmc article -> [CloudburstMC](link)
+> * Link to cloudburstmc article -> [CloudburstMC](https://cloudburstmc.org/resources/antipc.799/)
 
 ---
 
