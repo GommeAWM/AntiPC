@@ -1,0 +1,5 @@
+main: reyd.AntiPc
+name: AntiPC
+version: 1.0.6
+api: ["1.0.13"]
+author: Reydovich
